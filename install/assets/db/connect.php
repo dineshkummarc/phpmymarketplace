@@ -5,8 +5,8 @@ require_once("../SCRIPT/apl_core_functions.php");
 
 $server = "localhost";
 $dbusername = "root";
-$dbpassword = "1234";
-$database = "slippa-n";
+$dbpassword = "";
+$database = "slippa";
 
 //MySQL port
 $DB_PORT="3306";
