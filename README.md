@@ -1,1 +1,2 @@
-# PHP-Based-advance-marketplace-script
+# phpmymarketplace
+previously PHP-Based-advance-marketplace-script
